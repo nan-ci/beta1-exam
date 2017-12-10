@@ -4,6 +4,9 @@
  * Create a function `validCandidates` that takes an array of users
  * and returns only those which age is between 18 & 25 (both included)
  *
+ * Créer une fonction `validCandidates` qui prend un array d'utilisateurs
+ * et retourne seulement ceux qui ont entre 18 et 25 ans (inclus)
+ * 
  */
 
 const users = [
